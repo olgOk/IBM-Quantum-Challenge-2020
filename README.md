@@ -3,7 +3,6 @@
 
 ## What's in this repository?
 
-In this repository you will find a copy of the exercises in the IBM Quantum Challenge, 
-some useful hints. 
+In this repository you will find my answers to the IBM Quantum Challenge run on May 4th, 2020.
 
 
